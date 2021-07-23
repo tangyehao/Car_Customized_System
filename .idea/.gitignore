@@ -6,3 +6,50 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# Compiled class file
+*.class
+*.lock
+
+# idea
+.idea/
+*.iml
+
+*velocity.log*
+
+### STS ###
+.apt_generated
+.factorypath
+.springBeans
+
+### IntelliJ IDEA ###
+*.iml
+*.ipr
+*.iws
+.idea
+.clsspath
+.project
+.settings/
+bin/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+tmp/
+
+# Mobile Tools For Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+# rebel
+*rebel.xml*

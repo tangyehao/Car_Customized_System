@@ -6,6 +6,9 @@ import javax.swing.UnsupportedLookAndFeelException;
 import cn.com.views.MainView;
 import cn.com.views.loginview.LoginView;
 
+/**
+ * @author lishan
+ */
 public class Test {
 
 	public static void main(String[] args) {
